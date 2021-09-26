@@ -175,7 +175,7 @@ hack_you = [
             "https://drive.google.com/file/d/1EHJSkt64RZEw7a2h8xkRqZSv_4dWhB02/view?usp=sharing",
             "`pdf created click link below to download data\n\n",
             "Don't worry only i can open this ðŸ˜ŽðŸ˜Ž.. If u don't",
-            "Believe try to download`",
+            "Believe try to download`"
 ]
     
 
