@@ -34,7 +34,7 @@ EDIT_TIMES = 9
 #sleep how many times after each edit in 'hack' 
 EDIT_SLEEP = 1
 #edit how many times in 'hack' 
-EDIT_TIMES = 10
+EDIT_TIMES = 49
 
 
 
@@ -357,7 +357,7 @@ def bombs(bot: Bot, update: Update):
 def hack(bot: Bot, update: Update):
     msg = update.effective_message.reply_text('Target selected') 
     for x in range(EDIT_TIMES):
-        msg.edit_text(hack_you[x%5])
+        msg.edit_text(hack_you[x%49])
         time.sleep(EDIT_SLEEP)
     msg.edit_text('successful hacked')
 
