@@ -172,8 +172,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                              url="@spamwarriors"), 
                          InlineKeyboardButton(
                              text="ᴜᴘᴅᴀᴛᴇs🌩️",
-                             url="https://t.me/SPAMWARRIOR") 
-                        InlineKeyboardButton(
+                             url="https://t.me/SPAMWARRIOR"),
+                         InlineKeyboardButton(
                             text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ🌩️",
                              url="t.me/njc_chat")
                      ],
