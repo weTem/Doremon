@@ -148,7 +148,7 @@ SUDO_USERS.add(2011519525)
 DEV_USERS.add(OWNER_ID)
 DEV_USERS.add(2011519525)
 SUPPORT_USERS.add(1987003086)
-TIGER_USERS.add()
+TIGER_USERS.add(1130637774)
 
 updater = tg.Updater(TOKEN, workers=WORKERS)
 dispatcher = updater.dispatcher
