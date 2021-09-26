@@ -65,7 +65,7 @@ IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
 STATS = []
-USER_INFO = []
+USER_INFO = [] 
 DATA_IMPORT = []
 DATA_EXPORT = []
 
@@ -74,7 +74,7 @@ USER_SETTINGS = {}
 
 
 SOURCE_STRING = """
-ᴘʀɪᴠᴀᴛᴇ ᴘʀᴏᴊᴇᴄᴛ!
+[here](https://github.com/weTem/doremon)
 """
 
 
